@@ -2,8 +2,8 @@ Steps to run project
 Plese Run all thes commands Inside Project Directory
 
 1) Run command "sudo npm install"  to install dependencies
-2) Run command "sudo npm start" to run react server & node server.
-3)run "node src/node_server.js"
+2) Run command "sudo npm start" to run react server & node server and open and open http://localhost:8080/
+3)run "node src/node_server.js" and open http://localhost:5019/
 to run node server.
 
 
