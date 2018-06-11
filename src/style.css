@@ -1,0 +1,28 @@
+.foo
+{
+    padding-left: 20px;
+}
+.left {
+  	width: 30%;
+  	height:1500px;
+	overflow-y: scroll;
+}
+.row{
+	height: 100%;
+	margin:0 0 80px 0;
+}
+.right {
+  width: 70%;
+  height:1000px
+}
+* {
+    box-sizing: border-box;
+    margin:0 0 30px 0;
+}
+.column {
+    float: left;
+    padding: 10px;
+}
+.selected{
+  background-color: lightblue;
+}
